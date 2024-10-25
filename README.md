@@ -37,10 +37,12 @@ The dataset consists of four tables in CSV format:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anupam-Vishwakarma/Pizza-Sales-Dashboard.git
-📄 License
+##📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Contact
+##📞 Contact
+
 For any inquiries or feedback, please reach out to krishnaanupam56@gmail.com.
 
 ---
