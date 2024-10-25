@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Power BI dashboard designed to analyze pizza sales data. The dashboard provides insights into sales performance, customer preferences, and operational efficiency through various visualizations and key performance indicators (KPIs).
+This repository contains a Power BI dashboard designed to analyze pizza sales data. The dashboard provides insights into sales performance, customer preferences, and operational efficiency through visualizations and key performance indicators (KPIs).
 
 ## 🎯 Objective
 
@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard designed to analyze pizza sales da
 ## 📊 Dashboard Features
 
 - **Dynamic Filtering Options:** Users can filter data by date, pizza type, and more.
-- **KPI Metrics:** Key metrics such as total revenue, average order value, and total pizzas sold.
+- **KPI Metrics:** Key metrics include total revenue, average order value, and total pizzas sold.
 - **Sales Trends:** Visualizations showing daily and monthly sales trends.
 - **Top and Bottom Performers:** Insights into the best and worst-selling pizzas.
 
@@ -37,3 +37,12 @@ The dataset consists of four tables in CSV format:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Anupam-Vishwakarma/Pizza-Sales-Dashboard.git
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📞 Contact
+For any inquiries or feedback, please reach out to krishnaanupam56@gmail.com.
+
+---
+
+Feel free to customize the content, especially the contact information and any specific details about your project. This structure will help users understand the purpose of your repository and how to use the dashboard effectively.
